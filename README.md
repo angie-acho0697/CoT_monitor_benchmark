@@ -4,7 +4,7 @@
 [![Research: In Progress](https://img.shields.io/badge/Research-In%20Progress-blue.svg)]()
 [![Domain: AI Safety](https://img.shields.io/badge/Domain-AI%20Safety-red.svg)]()
 
-> **TL;DR**: Analysis of existing benchmarks for measuring Chain-of-Thought (CoT) monitoring uplift in AI safety. Identifies critical gaps and research opportunities for detecting AI sabotage through reasoning trace monitoring.
+> **TL;DR**: Analysis of existing benchmarks for measuring Chain-of-Thought (CoT) monitoring uplift in AI safety. Identifies critical gaps and research opportunities for detecting AI sabotage through reasoning trace monitoring. This is being developed as part of Eleuther AI Summer of AI Research program.
 
 ## 🎯 Research Question
 
